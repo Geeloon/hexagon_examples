@@ -17,7 +17,43 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-[[_TOC_]]
+# Table
+  - [ALU](#alu)
+    - [add](#add)
+    - [sub](#sub)
+    - [abs](#abs)
+    - [abs diff](#abs-diff)
+    - [sad （Sum Absolute Diffence）](#sad-sum-absolute-diffence)
+    - [max](#max)
+    - [min](#min)
+    - [avg](#avg)
+    - [Condacc](#condacc)
+    - [mpy](#mpy)
+    - [Mpa](#mpa)
+    - [shift](#shift)
+  - [Vector Permutation](#vector-permutation)
+    - [valign](#valign)
+    - [rotr](#rotr)
+    - [shuffle](#shuffle)
+    - [deal](#deal)
+    - [pack](#pack)
+    - [unpack](#unpack)
+    - [Other](#other)
+  - [Logic Operation](#logic-operation)
+    - [compare](#compare)
+    - [Bit Operation](#bit-operation)
+  - [Vector Transfer](#vector-transfer)
+    - [data type upgrade](#data-type-upgrade)
+    - [sat](#sat)
+  - [Scatter \& Gather](#scatter--gather)
+    - [gather](#gather)
+    - [scatter](#scatter)
+  - [Lut](#lut)
+  - [Other](#other-1)
+    - [store](#store)
+    - [splat](#splat)
+    - [setq](#setq)
+    - [prefixsum](#prefixsum)
 
 ## ALU
 
